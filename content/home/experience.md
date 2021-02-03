@@ -55,9 +55,9 @@ experience:
     description: |2-
     
     * Characterized and analyzed genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
-    * Analyzed whole genome sequencing data from > 1000 Samoan individuals to study the evolutionary history of modern Samoa
+    * Analyzed whole genome sequencing data from $>$ 1000 Samoan individuals to study the evolutionary history of modern Samoa
     * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
-    * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines.
+    * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines
     * Researched and wrote a review of cutting-edge approaches for cancer detection and treatment via non-invasive liquid biopsy
     * Demonstrated that significant cost and time biases when performing clinical genetic variant prioritization on individuals with non-European ancestral backgrounds
 
