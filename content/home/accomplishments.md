@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # turn on/off
-active = false  # Activate this widget? true/false
+active: false  # Activate this widget? true/false
 
 # Order that this section appears on the page.
 weight: 50
