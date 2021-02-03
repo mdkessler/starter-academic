@@ -59,9 +59,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-icon_pack: ai
-link: media/MichaelDKesslerResume.pdf
+# - icon: cv
+# icon_pack: ai
+# link: media/MichaelDKesslerResume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -72,4 +72,4 @@ highlight_name: true
 
 Michael D. Kessler is a postdoctoral fellow in the Department of Oncology at The Johns Hopkins University School of Medicine. His research interests lie at the intersection of human genetics, cancer genomics, and translational bioinformatics, and he strives to leverage data science tools and techniques to inform increasingly personalized and precise medical care.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MichaelDKesslerResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MichaelDKesslerResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
