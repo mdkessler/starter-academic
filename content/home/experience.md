@@ -29,15 +29,14 @@ experience:
     date_start: '2019-12-02'
     date_end: '2021-02-21'
     description: |2-
-        Worked on:
-        
-        * Latent patterns of immune checkpoint inhibitor response in melanoma that associate with progression free survival, the immunogenialternative splicing , super enhancers
-        * The integration of single cell transcriptomic and epigenomic sequencing data
-        * Feature selection in high-dimensional transcriptomic data 
-        * Top-scoring pairs (TSP) algorithms for classification and regression
-        * The super enhancer landscape of head and neck squamous cell carcinoma
-        * Gene candidates underpinning the association between vitamin D and head and neck cancer
-        * The estimation of a per sample immunogenicity score that derives from cancer-specific alternative splicing events
+
+        * Identified associatiosn between latent patterns of immune checkpoint inhibitor response in melanoma and progression free survival
+        * Participated in projects working to integrate single cell transcriptomic and epigenomic sequencing data
+        * Used feature selection to identify candidate genes from high-dimensional transcriptomic data 
+        * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
+        * Characterized the super enhancer landscape and associated transcription factor enrichements in head and neck squamous cell carcinoma
+        * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
+        * Led a project developing and implementing a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
         
         Responsibilities included:
         
@@ -53,8 +52,7 @@ experience:
     date_start: '2015-05-15'
     date_end: '2019-11-30'
     description: |2-
-      Test:
-      
+
       * Characterized and analyzed genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
       * Analyzed whole genome sequencing data from $>$ 1000 Samoan individuals to study the evolutionary history of modern Samoa
       * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
