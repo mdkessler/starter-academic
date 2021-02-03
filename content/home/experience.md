@@ -52,13 +52,14 @@ experience:
     location: Maryland
     date_start: '2015-05-15'
     date_end: '2019-11-30'
-    description:
-    
-    * Characterized and analyzed genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
-    * Analyzed whole genome sequencing data from $>$ 1000 Samoan individuals to study the evolutionary history of modern Samoa
-    * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
-    * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines
-    * Researched and wrote a review of cutting-edge approaches for cancer detection and treatment via non-invasive liquid biopsy
-    * Demonstrated that significant cost and time biases when performing clinical genetic variant prioritization on individuals with non-European ancestral backgrounds
+    description: |2-
+      Test:
+      
+      * Characterized and analyzed genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
+      * Analyzed whole genome sequencing data from $>$ 1000 Samoan individuals to study the evolutionary history of modern Samoa
+      * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
+      * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines
+      * Researched and wrote a review of cutting-edge approaches for cancer detection and treatment via non-invasive liquid biopsy
+      * Demonstrated that significant cost and time biases when performing clinical genetic variant prioritization on individuals with non-European ancestral backgrounds
 
 ---
