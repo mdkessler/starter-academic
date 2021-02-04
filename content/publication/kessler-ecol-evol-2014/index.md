@@ -1,4 +1,4 @@
-<embed src="Fig1.pdf" width="800px" height="2100px" />
+<img class='paperimage' alt=""  src="Fig1.pdf"/>
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
