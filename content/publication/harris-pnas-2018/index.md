@@ -26,7 +26,7 @@ authors:
 - H. Guio
 tags: [genetics, peru, demography, rare variants, population history, genetic ancestry, whole genome sequencing]
 categories: []
-date: '2018-01-01'
+date: '2018-07-10'
 lastmod: 2021-02-04T00:58:52-05:00
 featured: false
 draft: false
