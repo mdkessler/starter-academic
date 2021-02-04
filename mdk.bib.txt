@@ -1,0 +1,165 @@
+﻿@article{Song_plosone_2013,
+   author = {Song, Qiang and Decato, Benjamin and Hong, Elizabeth E and Zhou, Meng and Fang, Fang and Qu, Jianghan and Garvin, Tyler and Kessler, Michael and Zhou, Jun and Smith, Andrew D},
+   title = {A reference methylome database and analysis pipeline to facilitate integrative and comparative epigenomics},
+   journal = {PloS one},
+   volume = {8},
+   number = {12},
+   pages = {e81148},
+   ISSN = {1932-6203},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{Kessler_EcolEvol_2014,
+   author = {Kessler, M. D. and Dean, M. D.},
+   title = {Effective population size does not predict codon usage bias in mammals},
+   journal = {Ecol Evol},
+   volume = {4},
+   number = {20},
+   pages = {3887-900},
+   ISSN = {2045-7758 (Linking)},
+   DOI = {10.1002/ece3.1249},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/25505518
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242573/pdf/ece30004-3887.pdf},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{Colagiuri_Neuroscience_2015,
+   author = {Colagiuri, Ben and Schenk, Lieven A and Kessler, Michael D and Dorsey, Susan G and Colloca, Luana},
+   title = {The placebo effect: from concepts to genes},
+   journal = {Neuroscience},
+   volume = {307},
+   pages = {171-190},
+   ISSN = {0306-4522},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{Kessler_NatComm_2016,
+   author = {Kessler, Michael D. and Yerges-Armstrong, Laura and Taub, Margaret A. and Shetty, Amol C. and Maloney, Kristin and Jeng, Linda Jo Bone and Ruczinski, Ingo and Levin, Albert M. and Williams, L. Keoki and Beaty, Terri H. and Mathias, Rasika A. and Barnes, Kathleen C. and O’Connor, Timothy D.},
+   title = {Challenges and disparities in the application of personalized genomic medicine to populations with African ancestry},
+   journal = {Nature Communications},
+   volume = {7},
+   pages = {12521},
+   DOI = {10.1038/ncomms12521
+http://www.nature.com/articles/ncomms12521#supplementary-information},
+   url = {http://dx.doi.org/10.1038/ncomms12521
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062569/pdf/ncomms12521.pdf},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{Griffith_jpsm_2017,
+   author = {Griffith, Kathleen A and Zhu, Shijun and Johantgen, Meg and Kessler, Michael D and Renn, Cynthia and Beutler, Andreas S and Kanwar, Rahul and Ambulos, Nicholas and Cavaletti, Guido and Bruna, Jordi},
+   title = {Oxaliplatin-induced peripheral neuropathy and identification of unique severity groups in colorectal cancer},
+   journal = {Journal of pain and symptom management},
+   volume = {54},
+   number = {5},
+   pages = {701-706. e1},
+   ISSN = {0885-3924},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Kessler_GB_2017,
+   author = {Kessler, Michael D. and O’Connor, Timothy D.},
+   title = {Accurate and equitable medical genomic analysis requires an understanding of demography and its influence on sample size and ratio},
+   journal = {Genome Biology},
+   volume = {18},
+   number = {1},
+   pages = {42},
+   ISSN = {1474-760X},
+   DOI = {10.1186/s13059-017-1172-8},
+   url = {http://dx.doi.org/10.1186/s13059-017-1172-8
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5330117/pdf/13059_2017_Article_1172.pdf},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{Harris_PNAS_2018,
+   author = {Harris, D. N. and Song, W. and Shetty, A. C. and Levano, K. S. and Caceres, O. and Padilla, C. and Borda, V. and Tarazona, D. and Trujillo, O. and Sanchez, C. and Kessler, M. D. and Galarza, M. and Capristano, S. and Montejo, H. and Flores-Villanueva, P. O. and Tarazona-Santos, E. and O'Connor, T. D. and Guio, H.},
+   title = {Evolutionary genomic dynamics of Peruvians before, during, and after the Inca Empire},
+   journal = {Proc Natl Acad Sci U S A},
+   volume = {115},
+   number = {28},
+   pages = {E6526-E6535},
+   ISSN = {1091-6490 (Electronic)
+0027-8424 (Linking)},
+   DOI = {10.1073/pnas.1720798115},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/29946025
+https://www.pnas.org/content/pnas/115/28/E6526.full.pdf},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{Kessler_TIC_2018,
+   author = {Kessler, Michael D and Pawar, Nisha R and Martin, Stuart S and Antalis, Toni M and O’Connor, Timothy D},
+   title = {Improving Cancer Detection and Treatment with Liquid Biopsies and ptDNA},
+   journal = {Trends in cancer},
+   ISSN = {2405-8033},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{Larson_Genetics_2018,
+   author = {Larson, Erica L and Vanderpool, Dan and Sarver, Brice AJ and Callahan, Colin and Keeble, Sara and Provencio, Lorraine L and Kessler, Michael D and Stewart, Vanessa and Nordquist, Erin and Dean, Matthew D},
+   title = {The evolution of polymorphic hybrid incompatibilities in house mice},
+   journal = {Genetics},
+   volume = {209},
+   number = {3},
+   pages = {845-859},
+   ISSN = {1943-2631},
+   year = {2018},
+   type = {Journal Article}
+}
+
+@article{Kessler_Cancer_2019,
+   author = {Kessler, M. D. and Bateman, N. W. and Conrads, T. P. and Maxwell, G. L. and Dunning Hotopp, J. C. and O'Connor, T. D.},
+   title = {Ancestral characterization of 1018 cancer cell lines highlights disparities and reveals gene expression and mutational differences},
+   journal = {Cancer},
+   ISSN = {1097-0142 (Electronic)
+0008-543X (Linking)},
+   DOI = {10.1002/cncr.32020},
+   url = {https://www.ncbi.nlm.nih.gov/pubmed/30865299
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/cncr.32020},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{Erbe_NAR_2020,
+   author = {Erbe, Rossin and Kessler, Michael D and Favorov, Alexander V and Easwaran, Hariharan and Gaykalova, Daria A and Fertig, Elana J},
+   title = {Matrix factorization and transfer learning uncover regulatory biology across multiple single-cell ATAC-seq data sets},
+   journal = {Nucleic acids research},
+   volume = {48},
+   number = {12},
+   pages = {e68-e68},
+   ISSN = {0305-1048},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{Harris_PNAS_2020,
+   author = {Harris, Daniel N and Kessler, Michael D and Shetty, Amol C and Weeks, Daniel E and Minster, Ryan L and Browning, Sharon and Cochrane, Ethan E and Deka, Ranjan and Hawley, Nicola L and Reupena, Muagututi‘a Sefuiva},
+   title = {Evolutionary history of modern Samoans},
+   journal = {Proceedings of the National Academy of Sciences},
+   volume = {117},
+   number = {17},
+   pages = {9458-9465},
+   ISSN = {0027-8424},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{Kessler_PNAS_2020,
+   author = {Kessler, Michael D. and Loesch, Douglas P. and Perry, James A. and Heard-Costa, Nancy L. and Taliun, Daniel and Cade, Brian E. and Wang, Heming and Daya, Michelle and Ziniti, John and Datta, Soma and Celedón, Juan C. and Soto-Quiros, Manuel E. and Avila, Lydiana and Weiss, Scott T. and Barnes, Kathleen and Redline, Susan S. and Vasan, Ramachandran S. and Johnson, Andrew D. and Mathias, Rasika A. and Hernandez, Ryan and Wilson, James G. and Nickerson, Deborah A. and Abecasis, Goncalo and Browning, Sharon R. and Zöllner, Sebastian and O’Connell, Jeffrey R. and Mitchell, Braxton D. and O’Connor, Timothy D.},
+   title = {De novo mutations across 1,465 diverse genomes reveal mutational insights and reductions in the Amish founder population},
+   journal = {Proceedings of the National Academy of Sciences},
+   pages = {201902766},
+   DOI = {10.1073/pnas.1902766117},
+   url = {http://www.pnas.org/content/early/2020/01/17/1902766117.abstract
+https://www.pnas.org/content/pnas/early/2020/01/17/1902766117.full.pdf},
+   year = {2020},
+   type = {Journal Article}
+}
+
