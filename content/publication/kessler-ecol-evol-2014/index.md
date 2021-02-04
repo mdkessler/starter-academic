@@ -23,7 +23,7 @@ draft: false
 #  preview_only: true
 
 header:
-  image: 'Fig1.pdf'
+  image: 'featured.jpg'
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
