@@ -1,4 +1,4 @@
-<img class='paperimage' alt=""  src="Fig1.pdf"/>
+<img class='paperimage' alt=""  src="featured.jpg"/>
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
