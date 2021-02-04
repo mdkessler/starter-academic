@@ -21,7 +21,7 @@ authors:
 - Timothy D. O’Connor
 tags: [personalized genomic medicine, diverse populations, genetic ancestry, clinical genetics, disparities]
 categories: []
-date: '2016-01-01'
+date: '2016-10-11'
 lastmod: 2021-02-04T00:58:51-05:00
 featured: false
 draft: false
