@@ -38,4 +38,5 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Nucleic acids research*'
+doi: https://doi.org/10.1093/nar/gkaa349
 ---
