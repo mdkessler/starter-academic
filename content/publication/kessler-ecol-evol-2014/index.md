@@ -7,7 +7,7 @@ summary: ''
 authors:
 - M. D. Kessler
 - M. D. Dean
-tags: []
+tags: [codon usage bias, molecular evolution, effective population size, Ne, Mammals, Phylogeny]
 categories: []
 date: '2014-01-01'
 lastmod: 2021-02-04T00:58:50-05:00
@@ -31,8 +31,7 @@ projects: []
 publishDate: '2021-02-04T05:58:50.411774Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Ecol Evol*'
-url_pdf: https://www.ncbi.nlm.nih.gov/pubmed/25505518 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4242573/pdf/ece30004-3887.pdf
+abstract: 'Synonymous codons are not used at equal frequency throughout the genome, a phenomenon termed codon usage bias (CUB). It is often assumed that interspecific variation in the intensity of CUB is related to species differences in effective population sizes (Ne), with selection on CUB operating less efficiently in species with small Ne. Here, we specifically ask whether variation in Ne predicts differences in CUB in mammals and report two main findings. First, across 41 mammalian genomes, CUB was not correlated with two indirect proxies of Ne (body mass and generation time), even though there was statistically significant evidence of selection shaping CUB across all species. Interestingly, autosomal genes showed higher codon usage bias compared to X‐linked genes, and high‐recombination genes showed higher codon usage bias compared to low recombination genes, suggesting intraspecific variation in Ne predicts variation in CUB. Second, across six mammalian species with genetic estimates of Ne (human, chimpanzee, rabbit, and three mouse species: Mus musculus, M. domesticus, and M. castaneus), Ne and CUB were weakly and inconsistently correlated. At least in mammals, interspecific divergence in Ne does not strongly predict variation in CUB. One hypothesis is that each species responds to a unique distribution of selection coefficients, confounding any straightforward link between Ne and CUB.'
+publication: '[*Ecol Evol*](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.1249)'
 doi: 10.1002/ece3.1249
 ---
