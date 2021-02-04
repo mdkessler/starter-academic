@@ -27,7 +27,7 @@ content:
     category: ''
     publication_type: ''
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
@@ -36,6 +36,8 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+## [Browse all]({{< ref "/publication/_index.md" >}}) or visit [Google Scholar](https://scholar.google.com/citations?user=c7wNLkcAAAAJ&hl=en).
 
 <!--
 {{% callout note %}}
