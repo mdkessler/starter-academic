@@ -10,9 +10,9 @@ authors:
 - Stuart S Martin
 - Toni M Antalis
 - Timothy D O’Connor
-tags: []
+tags: [liquid biopsy, cell-free DNA, biomarkers, cancer, oncology, non-invasive diagnostics, cancer surveillance]
 categories: []
-date: '2018-01-01'
+date: '2018-08-01'
 lastmod: 2021-02-04T00:58:52-05:00
 featured: false
 draft: false
@@ -34,6 +34,7 @@ projects: []
 publishDate: '2021-02-04T05:58:52.096526Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Trends in cancer*'
+abstract: 'Liquid biopsy, or the capacity to noninvasively isolate and analyze plasma tumor DNA (ptDNA) using blood samples, represents an important tool for modern oncology that enables increasingly safe, personalized, and robust cancer diagnosis and treatment. Here, we review advances in the development and implementation of liquid biopsy approaches, and we focus on the capacity of liquid biopsy to noninvasively detect oncological disease and enhance early detection strategies. In addition to noting the distinctions between mutation-targeted and mutation-agnostic approaches, we discuss the potential for genomic analysis and longitudinal testing to identify somatic lesions early and to guide intervention at more manageable disease stages.'
+publication: '[*Trends in cancer*](https://www.sciencedirect.com/science/article/pii/S2405803318301572)'
+doi: https://doi.org/10.1016/j.trecan.2018.07.004
 ---
