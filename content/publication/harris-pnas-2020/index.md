@@ -17,7 +17,7 @@ authors:
 - Muagututi‘a Sefuiva Reupena
 tags: [genetics, samoa, demography, relatedness, genetic ancestry, population history, rare variants, TOPMed]
 categories: []
-date: '2020-01-01'
+date: '2020-04-28'
 lastmod: 2021-02-04T00:58:53-05:00
 featured: false
 draft: false
