@@ -36,5 +36,4 @@ publication_types:
 - '2'
 abstract: ''
 publication: '*Neuroscience*'
-url: 'https://www.sciencedirect.com/science/article/abs/pii/S030645221500740X'
 ---
