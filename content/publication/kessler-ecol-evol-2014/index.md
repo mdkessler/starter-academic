@@ -1,4 +1,4 @@
-<a href="Fig1.pdf">ok</a>
+<embed src="Fig1.pdf" width="800px" height="2100px" />
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
