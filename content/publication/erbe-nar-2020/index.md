@@ -36,7 +36,7 @@ projects: []
 publishDate: '2021-02-04T05:58:52.926305Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Nucleic acids research*'
+abstract: 'While the methods available for single-cell ATAC-seq analysis are well optimized for clustering cell types, the question of how to integrate multiple scATAC-seq data sets and/or sequencing modalities is still open. We present an analysis framework that enables such integration across scATAC-seq data sets by applying the CoGAPS Matrix Factorization algorithm and the projectR transfer learning program to identify common regulatory patterns across scATAC-seq data sets. We additionally integrate our analysis with scRNA-seq data to identify orthogonal evidence for transcriptional regulators predicted by scATAC-seq analysis. Using publicly available scATAC-seq data, we find patterns that accurately characterize cell types both within and across data sets. Furthermore, we demonstrate that these patterns are both consistent with current biological understanding and reflective of novel regulatory biology.'
+publication: '[*Nucleic acids research*](https://academic.oup.com/nar/article/48/12/e68/5835820?login=true)'
 doi: https://doi.org/10.1093/nar/gkaa349
 ---
