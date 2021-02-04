@@ -12,7 +12,7 @@ authors:
 - Luana Colloca
 tags: [pain, genetics]
 categories: []
-date: '2015-01-01'
+date: '2015-10-29'
 lastmod: 2021-02-04T00:58:50-05:00
 featured: false
 draft: false
