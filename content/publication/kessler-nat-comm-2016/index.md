@@ -19,7 +19,7 @@ authors:
 - Rasika A. Mathias
 - Kathleen C. Barnes
 - Timothy D. O’Connor
-tags: []
+tags: [personalized genomic medicine, diverse populations, genetic ancestry, clinical genetics, disparities]
 categories: []
 date: '2016-01-01'
 lastmod: 2021-02-04T00:58:51-05:00
@@ -43,8 +43,8 @@ projects: []
 publishDate: '2021-02-04T05:58:51.030137Z'
 publication_types:
 - '2'
-abstract: ''
-publication: '*Nature Communications*'
-url_pdf: http://dx.doi.org/10.1038/ncomms12521 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062569/pdf/ncomms12521.pdf
+abstract: 'To characterize the extent and impact of ancestry-related biases in precision genomic medicine, we use 642 whole-genome sequences from the Consortium on Asthma among African-ancestry Populations in the Americas (CAAPA) project to evaluate typical filters and databases. We find significant correlations between estimated African ancestry proportions and the number of variants per individual in all variant classification sets but one. The source of these correlations is highlighted in more detail by looking at the interaction between filtering criteria and the ClinVar and Human Gene Mutation databases. ClinVar’s correlation, representing African ancestry-related bias, has changed over time amidst monthly updates, with the most extreme switch happening between March and April of 2014 (r=0.733 to r=−0.683). We identify 68 SNPs as the major drivers of this change in correlation. As long as ancestry-related bias when using these clinical databases is minimally recognized, the genetics community will face challenges with implementation, interpretation and cost-effectiveness when treating minority populations.'
+publication: '[*Nature Communications*](https://www.nature.com/articles/ncomms12521)'
+#url_pdf: http://dx.doi.org/10.1038/ncomms12521 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5062569/pdf/ncomms12521.pdf
 doi: 10.1038/ncomms12521 http://www.nature.com/articles/ncomms12521#supplementary-information
 ---
