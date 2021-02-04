@@ -5,8 +5,8 @@ title: Effective population size does not predict codon usage bias in mammals
 subtitle: ''
 summary: ''
 authors:
-- M. D. Kessler
-- M. D. Dean
+- Michael D. Kessler
+- Matthew D. Dean
 tags: [codon usage bias, molecular evolution, effective population size, Ne, Mammals, Phylogeny]
 categories: []
 date: '2014-01-01'
@@ -20,8 +20,7 @@ draft: false
 image:
   caption: ''
   focal_point: ''
-  preview_only: false
-
+  preview_only: true
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
