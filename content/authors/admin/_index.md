@@ -24,6 +24,7 @@ interests:
 - Oncology
 - Bioinformatics
 - Data Science
+- Bayesian Statistics
 
 # Education to show in About widget
 education:
