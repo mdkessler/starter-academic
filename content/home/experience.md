@@ -30,7 +30,7 @@ experience:
     date_end: '2021-02-21'
     description: |2-
 
-        * Identified associatiosn between latent patterns of immune checkpoint inhibitor response in melanoma and progression free survival
+        * Identified associations between latent patterns of immune checkpoint inhibitor response in melanoma and progression free survival
         * Participated in projects working to integrate single cell transcriptomic and epigenomic sequencing data
         * Used feature selection to identify candidate genes from high-dimensional transcriptomic data 
         * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
@@ -59,6 +59,6 @@ experience:
       * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
       * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines
       * Researched and wrote a review of cutting-edge approaches for cancer detection and treatment via non-invasive liquid biopsy
-      * Demonstrated that significant cost and time biases when performing clinical genetic variant prioritization on individuals with non-European ancestral backgrounds
+      * Demonstrated that significant cost and time biases exist when performing clinical genetic variant prioritization on individuals with non-European ancestral backgrounds
 
 ---
