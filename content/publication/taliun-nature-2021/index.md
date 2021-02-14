@@ -15,7 +15,7 @@ authors:
 - André Corvelo
 - Stephanie M Gogarten
 - Hyun Min Kang
-- [...]
+- ...
 - NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium
 - George J. Papanicolaou
 - Deborah A. Nickerson
