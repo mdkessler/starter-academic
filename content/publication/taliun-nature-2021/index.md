@@ -15,20 +15,7 @@ authors:
 - André Corvelo
 - Stephanie M Gogarten
 - Hyun Min Kang
-- '\.\.\.'
-- NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium
-- George J. Papanicolaou
-- Deborah A. Nickerson
-- Sharon R. Browning
-- Michael C. Zody
-- Sebastian Zöllner
-- James G. Wilson
-- L. Adrienne Cupples
-- Cathy C. Laurie
-- Cashell E. Jaquish
-- Ryan D. Hernandez
-- Timothy D. O’Connor
-- Gonçalo R. Abecasis
+- other authors
 tags: [population genetics, rare variants, imputation, topmed, nhlbi, whole genome sequencing]
 categories: []
 date: '2021-02-10'
