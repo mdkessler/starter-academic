@@ -15,7 +15,8 @@ authors:
 - André Corvelo
 - Stephanie M Gogarten
 - Hyun Min Kang
-<!--
+- \[...\]
+<
 - Achilleas N Pitsillides
 - Jonathon LeFaive
 - Seung-been Lee
@@ -183,7 +184,7 @@ authors:
 - Edwin K. Silverman
 - Pankaj Qasba
 - Weiniu Gan
--->
+>
 - NHLBI Trans-Omics for Precision Medicine (TOPMed) Consortium
 - George J. Papanicolaou
 - Deborah A. Nickerson
