@@ -48,12 +48,7 @@ experience:
     date_end: '2021-02-21'
     description: |2-
     
-        * Identified associations between latent patterns of immune checkpoint inhibitor response in melanoma and progression free survival
-        * Worked on the integration of single cell transcriptomic and epigenomic sequencing data
-        * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
-        * Characterized the super enhancer landscape and associated transcription factor enrichements in head and neck squamous cell carcinoma
-        * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
-        * Worked on a method to estimate per sample immunogenicity scores that derive from cancer specific alternative splicing events
+        * Test1
 
  experience:      
   - title: Graduate Research Assistant
