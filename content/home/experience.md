@@ -39,7 +39,6 @@ experience:
         * Collaborated across pharmacogenomic, therapeutic, clinical, and translational teams as part of multiple interdisciplinary cancer projects
         * Started and led a code sharing initiative across analytical teams to increase computational learning, visibility, resource usage, and efficiency
 
-experience:
   - title: Postdoctoral Research Fellow
     company: The Johns Hopkins University School of Medicine
     company_url: 'https://www.hopkinsmedicine.org'
@@ -54,8 +53,7 @@ experience:
         * Characterized the super enhancer landscape and associated transcription factor enrichements in head and neck squamous cell carcinoma
         * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
         * Worked on a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
-
- experience:      
+     
   - title: Graduate Research Assistant
     company: Institute for Genome Sciences, University of Maryland Baltimore
     company_url: 'https://www.igs.umaryland.edu'
