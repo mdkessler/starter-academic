@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Postdoctoral Research Fellow
+  - title: Postdoctoral
     company: The Johns Hopkins University School of Medicine
     company_url: 'https://www.hopkinsmedicine.org'
     location: Maryland
