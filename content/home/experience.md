@@ -53,7 +53,7 @@ experience:
         * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
         * Characterized the super enhancer landscape and associated transcription factor enrichements in head and neck squamous cell carcinoma
         * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
-        * Worked on a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
+        * Worked on a method to estimate per sample immunogenicity scores that derive from cancer\-specific alternative splicing events
 
  experience:      
   - title: Graduate Research Assistant
@@ -65,7 +65,7 @@ experience:
     description: |2-
     
       * Characterized and analyzed genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
-      * Analyzed whole genome sequencing data from > 1000 Samoan individuals to study the evolutionary history of modern Samoa
+      * Analyzed whole genome sequencing data from >1000 Samoan individuals to study the evolutionary history of modern Samoa
       * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
       * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines
       * Researched and wrote a review of cutting-edge approaches for cancer detection and treatment via non-invasive liquid biopsy
