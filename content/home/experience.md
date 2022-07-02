@@ -22,6 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Associate Manager, Statistical Genetics
+    company: Regeneron Genetics Center LLC, Regeneron Pharmaceuticals
+    company_url: 'https://www.regeneron.com/science/genetics-center'
+    location: New York
+    date_start: '2021-02-22'
+    date_end: ''
+    description: |2-
+    
+        * Test1
+        * Test2
+experience:
   - title: Postdoctoral Research Fellow
     company: The Johns Hopkins University School of Medicine
     company_url: 'https://www.hopkinsmedicine.org'
@@ -29,14 +40,14 @@ experience:
     date_start: '2019-12-02'
     date_end: '2021-02-21'
     description: |2-
-
+    
         * Identified associations between latent patterns of immune checkpoint inhibitor response in melanoma and progression free survival
-        * Participated in projects working to integrate single cell transcriptomic and epigenomic sequencing data
-        * Used feature selection to identify candidate genes from high-dimensional transcriptomic data 
+        * Worked on the integration of single cell transcriptomic and epigenomic sequencing data
         * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
         * Characterized the super enhancer landscape and associated transcription factor enrichements in head and neck squamous cell carcinoma
         * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
-        * Led a project developing and implementing a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
+        * Worked on the implemention of a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
+splicing events
       <!--   
       Responsibilities included:
         
@@ -45,7 +56,8 @@ experience:
         * Mentoring undergraduate and graduate students
         * Interviewing job candidates
         --!>
-        
+
+ experience:      
   - title: Graduate Research Assistant
     company: Institute for Genome Sciences, University of Maryland Baltimore
     company_url: 'https://www.igs.umaryland.edu'
