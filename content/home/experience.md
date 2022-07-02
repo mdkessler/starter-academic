@@ -53,7 +53,7 @@ experience:
         * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
         * Characterized the super enhancer landscape and associated transcription factor enrichements in head and neck squamous cell carcinoma
         * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
-        * Worked on a method to estimate per sample immunogenicity scores that derive from cancer\-specific alternative splicing events
+        * Worked on a method to estimate per sample immunogenicity scores that derive from cancer specific alternative splicing events
 
  experience:      
   - title: Graduate Research Assistant
