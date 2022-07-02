@@ -6,12 +6,12 @@ title: Michael D. Kessler
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow
+role: Biomedical Researcher and Geneticist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: The Johns Hopkins University School of Medicine
-  url: https://www.hopkinsmedicine.org
+- name: Regeneron Genetics Center
+  url: https://www.regeneron.com/science/genetics-center
 - name: Institute for Genome Science
   url: https://www.igs.umaryland.edu
 
@@ -23,8 +23,8 @@ interests:
 - Genetics and Genomics
 - Oncology
 - Bioinformatics
-- Data Science
-- Bayesian Statistics
+- Biological Data Science
+- Translational Epidemiology
 
 # Education to show in About widget
 education:
@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Michael D. Kessler is a postdoctoral fellow in the Department of Oncology at The Johns Hopkins University School of Medicine. His research interests lie at the intersection of human genetics, cancer genomics, and translational bioinformatics, and he strives to leverage data science tools and techniques to inform increasingly personalized and precise medical care.
+Michael D. Kessler is a statistical geneticist within the Analytical Genetics and Data Sciences (AGDS) group at the Regeneron Genetics Center (RGC) of Regeneron Pharmaceuticals. In this role, I apply statistical genetic techniques and modeling for the identification and interpretation of biological targets. My work is highly interdiscplinary, and I greatly enjoy working with colleagues across statistical, translational, experimental, legal, and executive teams in order to further the development of novel therapeutics.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MichaelDKesslerResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
