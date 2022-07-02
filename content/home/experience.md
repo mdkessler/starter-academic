@@ -46,10 +46,8 @@ experience:
     location: Maryland
     date_start: '2019-12-02'
     date_end: '2021-02-21'
-    description: |2-
-    
-        * Test1
-
+    description: |2- 
+        * Test
  experience:      
   - title: Graduate Research Assistant
     company: Institute for Genome Sciences, University of Maryland Baltimore
