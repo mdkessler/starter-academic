@@ -28,7 +28,7 @@ experience:
     location: New York
     date_start: '2021-02-22'
     date_end: ''
-    description: |2-
+    description: |-
         
         * Led germline cancer genetic association analysis across >100 EHR derived cancer phenotypes, which led to >3 patent filings within 15 months
         * Discovered >20 novel germline genetic loci associated with clonal hematopoiesis phenotypes, including signals with therapeutic target potential
@@ -46,8 +46,15 @@ experience:
     location: Maryland
     date_start: '2019-12-02'
     date_end: '2021-02-21'
-    description: |2- 
-        * Test
+    description: |-
+    
+        * Identified associations between latent patterns of immune checkpoint inhibitor response in melanoma and progression free survival
+        * Worked on the integration of single cell transcriptomic and epigenomic sequencing data
+        * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
+        * Characterized the super enhancer landscape and associated transcription factor enrichements in head and neck squamous cell carcinoma
+        * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
+        * Worked on a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
+
  experience:      
   - title: Graduate Research Assistant
     company: Institute for Genome Sciences, University of Maryland Baltimore
