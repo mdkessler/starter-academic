@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Michael D. Kessler is a statistical geneticist within the Analytical Genetics and Data Sciences (AGDS) group at the Regeneron Genetics Center (RGC) of Regeneron Pharmaceuticals. In this role, I apply statistical genetic techniques and modeling for the identification and interpretation of biological targets. My work is highly interdiscplinary, and I greatly enjoy working with colleagues across statistical, translational, experimental, legal, and executive teams in order to further the development of novel therapeutics.
+Michael D. Kessler is a statistical geneticist within the Analytical Genetics and Data Sciences (AGDS) group at the Regeneron Genetics Center (RGC) of Regeneron Pharmaceuticals. In this role, he applies statistical genetic techniques and modeling for the identification and interpretation of biological targets. His work is highly interdiscplinary, and he greatly enjoys working with colleagues across statistical, translational, experimental, legal, and executive teams in order to further the development of novel therapeutics.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/MichaelDKesslerResume.pdf" "newtab" >}}resumé{{< /staticref >}}.
