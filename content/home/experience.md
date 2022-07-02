@@ -29,7 +29,6 @@ experience:
     date_start: '2021-02-22'
     date_end: ''
     description: |2-
-    
         * Test1
         * Test2
 experience:
@@ -40,7 +39,6 @@ experience:
     date_start: '2019-12-02'
     date_end: '2021-02-21'
     description: |2-
-    
         * Identified associations between latent patterns of immune checkpoint inhibitor response in melanoma and progression free survival
         * Worked on the integration of single cell transcriptomic and epigenomic sequencing data
         * Developed and implemented a novel machine learning algorithm that uses a top-scoring pairs (TSP) approach to perform regression
@@ -48,7 +46,6 @@ experience:
         * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
         * Worked on the implemention of a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
 splicing events
-
  experience:      
   - title: Graduate Research Assistant
     company: Institute for Genome Sciences, University of Maryland Baltimore
@@ -57,12 +54,10 @@ splicing events
     date_start: '2015-05-15'
     date_end: '2019-11-30'
     description: |2-
-
       * Characterized and analyzed genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
       * Analyzed whole genome sequencing data from > 1000 Samoan individuals to study the evolutionary history of modern Samoa
       * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
       * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines
       * Researched and wrote a review of cutting-edge approaches for cancer detection and treatment via non-invasive liquid biopsy
       * Demonstrated that significant cost and time biases exist when performing clinical genetic variant prioritization on individuals with non-European ancestral backgrounds
-
 ---
