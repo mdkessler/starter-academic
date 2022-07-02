@@ -22,15 +22,17 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Associate Manager, Statistical Genetics
     company: Regeneron Genetics Center LLC, Regeneron Pharmaceuticals
     company_url: 'https://www.regeneron.com/science/genetics-center'
     location: New York
     date_start: '2021-2-22'
-    date_end: 'Present'
+    date_end: ''
     description: |2-
+    
         * Led germline cancer genetic association analysis across >100 EHR derived cancer phenotypes, which led to >3 patent filings within my first 18 months
-        * [Discovered] (https://www.medrxiv.org/content/10.1101/2021.12.29.21268342v1) >20 novel germline genetic loci associated with clonal hematopoiesis of indeterminate potential (CHIP), including multiple independent protective missense variant associations supportive of therapeutic target potential
+        * [Discovered](https://www.medrxiv.org/content/10.1101/2021.12.29.21268342v1) >20 novel germline genetic loci associated with clonal hematopoiesis of indeterminate potential (CHIP), including multiple independent protective missense variant associations supportive of therapeutic target potential
         * Presentated scientific results to senior R&D leadership, including company co-founder and CSO
         * Performed large-scale genetic analysis using cloud-based computational infrastructure (e.g. AWS, DNANexus), and developed >5 DNANexus applets as components of genetic data processing pipelines
         * Applied numerous statistical and translation genetic techniques (e.g. GWAS, fine-mapping, regression and classification, meta analysis, genetic risk scores) for the analysis of genetic and phenotypic data
