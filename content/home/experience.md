@@ -48,14 +48,6 @@ experience:
         * Identified gene candidates underpinning the association between vitamin D and head and neck cancer
         * Worked on the implemention of a method to estimate per sample immunogenicity scores that derive from cancer-specific alternative splicing events
 splicing events
-      <!--   
-      Responsibilities included:
-        
-        * Presenting at team meeting
-        * Writing manuscripts and grants
-        * Mentoring undergraduate and graduate students
-        * Interviewing job candidates
-        --!>
 
  experience:      
   - title: Graduate Research Assistant
