@@ -22,12 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
   - title: Associate Manager, Statistical Genetics
     company: Regeneron Genetics Center LLC, Regeneron Pharmaceuticals
     company_url: 'https://www.regeneron.com/science/genetics-center'
     location: New York
     date_start: '2021-2-22'
-    date_end: '2022-7-02'
+    date_end: 'Present'
     description: |2-
     
         * Led germline cancer genetic association analysis across >100 EHR derived cancer phenotypes, which led to >3 patent filings within my first 18 months
@@ -70,7 +71,7 @@ experience:
     date_end: '2019-11-30'
     description: |2-
 
-      * [Characterized and analyzed](https://www.google.com) genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
+      * Characterized and analyzed genetic variant distributions from > 40,000 human genomes as part of the NHLBI TOPMed program
       * Analyzed whole genome sequencing (WGS) data from > 1000 Samoan individuals to study the evolutionary history of modern Samoa
       * Calculated and analyzed de novo mutation rates across ancestrally diverse human populations and discovered a mutation reduction in the Amish founder population
       * Determined the genetic ancestry for 1018 common cancer cell line models and identified gene expression and mutation differences from ancestrally diverse cancer cell lines
