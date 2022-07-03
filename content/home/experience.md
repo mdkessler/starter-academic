@@ -35,7 +35,7 @@ experience:
         * Presentated scientific results to senior R&D leadership, including company co-founder and CSO
         * Performed large-scale genetic analysis using cloud-based computational infrastructure (e.g. AWS, DNANexus)
         * Developed >5 DNANexus applets as components of genetic data processing pipelines
-        * Applied numerous statistical and translation genetic techniques (e.g. GWAS, fine-mapping, ML) for the analysis of genetic and phenotypic data
+        * Applied numerous statistical and translational genetic techniques (e.g. GWAS, fine-mapping, ML) for the analysis of genetic and phenotypic data
         * Collaborated across pharmacogenomic, therapeutic, clinical, and translational teams as part of multiple interdisciplinary cancer projects
         * Started and led a code sharing initiative across analytical teams to increase computational learning, visibility, resource usage, and efficiency
 
