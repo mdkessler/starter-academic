@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: |-
         
-        * Led germline cancer genetic association analysis across >100 EHR derived cancer phenotypes, which led to >3 patent filings within 15 months
+        * Led germline cancer genetic association analyses across >100 EHR derived cancer phenotypes, which led to >3 patent filings within 15 months
         * Discovered >20 novel germline genetic loci associated with clonal hematopoiesis phenotypes, including signals with therapeutic target potential
         * Presentated scientific results to senior R&D leadership, including company co-founder and CSO
         * Performed large-scale genetic analysis using cloud-based computational infrastructure (e.g. AWS, DNANexus)
