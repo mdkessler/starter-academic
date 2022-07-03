@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: Exome sequencing and analysis of 454,787 UK Biobank participants
-subtitle: 'Transfer learning between preclinical models and human tumors identifies a conserved NK cell activation signature in anti-CTLA-4 responsive tumors'
+title: Transfer learning between preclinical models and human tumors identifies a conserved NK cell activation signature in anti-CTLA-4 responsive tumors
+subtitle: ''
 summary: ''
 authors:
 - Emily F Davis-Marcisak
