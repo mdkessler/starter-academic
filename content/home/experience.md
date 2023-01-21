@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Associate Manager, Statistical Genetics
+  - title: Manager, Statistical Genetics
     company: Regeneron Genetics Center LLC, Regeneron Pharmaceuticals
     company_url: 'https://www.regeneron.com/science/genetics-center'
     location: New York
@@ -32,12 +32,11 @@ experience:
         
         * Led germline cancer genetic association analyses across >100 EHR derived cancer phenotypes, which led to >3 patent filings within 15 months
         * Discovered >20 novel germline genetic loci associated with clonal hematopoiesis phenotypes, including signals with therapeutic target potential
-        * Presentated scientific results to senior R&D leadership, including company co-founder and CSO
+        * Presentated scientific results externally (American Society of Human Genetics, American Society of Hematology), and internally to senior R&D leadership (including the company co-founder and CSO)
         * Performed large-scale genetic analysis using cloud-based computational infrastructure (e.g. AWS, DNANexus)
         * Developed >5 DNANexus applets as components of genetic data processing pipelines
         * Applied numerous statistical and translational genetic techniques (e.g. GWAS, fine-mapping, ML) for the analysis of genetic and phenotypic data
         * Collaborated across pharmacogenomic, therapeutic, clinical, and translational teams as part of multiple interdisciplinary cancer projects
-        * Started and led a code sharing initiative across analytical teams to increase computational learning, visibility, resource usage, and efficiency
 
   - title: Postdoctoral Research Fellow
     company: The Johns Hopkins University School of Medicine
