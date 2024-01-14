@@ -36,8 +36,7 @@ experience:
         * Presented scientific results externally (American Society of Human Genetics, American Society of Hematology, Institute for Translational Medicine and Therapeutics), and internally to senior R&D leadership (including the company co-founder and CSO)
         * Performed large-scale genetic analysis using cloud-based computational infrastructure (e.g. AWS, DNANexus)
         * Developed >5 DNANexus applets as components of genetic data processing pipelines
-        * Applied numerous statistical and translational genetic techniques (e.g. GWAS, fine-mapping,
-ML) for the analysis of genetic and phenotypic data
+        * Applied numerous statistical and translational genetic techniques (e.g. GWAS, fine-mapping, ML) for the analysis of genetic and phenotypic data
         * Collaborated across pharmacogenomic, therapeutic, clinical, and translational teams as part of multiple interdisciplinary human genetics projects
         * Regularly participated in scientific recruitment and collaboration building, and served on dozens of hiring committees across multiple research and development teams
 
