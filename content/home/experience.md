@@ -22,21 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Manager, Statistical Genetics
+  - title: Sr Manager, Statistical Genetics
     company: Regeneron Genetics Center LLC, Regeneron Pharmaceuticals
     company_url: 'https://www.regeneron.com/science/genetics-center'
     location: New York
     date_start: '2021-02-22'
     date_end: ''
     description: |-
-        
-        * Led germline cancer genetic association analyses across >100 EHR derived cancer phenotypes, which led to >3 patent filings within 15 months
-        * Discovered >20 novel germline genetic loci associated with clonal hematopoiesis phenotypes, including signals with therapeutic target potential
-        * Presentated scientific results externally (American Society of Human Genetics, American Society of Hematology), and internally to senior R&D leadership (including the company co-founder and CSO)
+
+        * **Promoted three times across my first three years**, going from an individually contributing Sr Statistical Geneticist to a Sr Manager in a hybrid role with multiple direct reports and continued individual contribution.
+        * Led germline cancer genetic association analyses across >200 EHR derived hematologic and oncologic phenotypes, resulting in >3 patent filings
+        * Discovered >50 novel germline genetic loci associated with hematologic phenotypes (e.g. clonal hematopoiesis), including signals with therapeutic target potential
+        * Presented scientific results externally (American Society of Human Genetics, American Society of Hematology, Institute for Translational Medicine and Therapeutics), and internally to senior R&D leadership (including the company co-founder and CSO)
         * Performed large-scale genetic analysis using cloud-based computational infrastructure (e.g. AWS, DNANexus)
         * Developed >5 DNANexus applets as components of genetic data processing pipelines
-        * Applied numerous statistical and translational genetic techniques (e.g. GWAS, fine-mapping, ML) for the analysis of genetic and phenotypic data
-        * Collaborated across pharmacogenomic, therapeutic, clinical, and translational teams as part of multiple interdisciplinary cancer projects
+        * Applied numerous statistical and translational genetic techniques (e.g. GWAS, fine-mapping,
+ML) for the analysis of genetic and phenotypic data
+        * Collaborated across pharmacogenomic, therapeutic, clinical, and translational teams as part of multiple interdisciplinary human genetics projects
+        * Regularly participated in scientific recruitment and collaboration building, and served on dozens of hiring committees across multiple research and development teams
 
   - title: Postdoctoral Research Fellow
     company: The Johns Hopkins University School of Medicine
